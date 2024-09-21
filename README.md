@@ -17,12 +17,12 @@ The dataset comprises pizza sales data with order details like date, total price
 
   - Data Cleaning and Transformation: Raw data from the Sales Tracker was transformed using SQL Server Management Studio, Power BI, and DAX formula ensuring data integrity and consistency before integration.
 
-  - Best Selling: The dashboard highlights best selling pizzas based on revenue, quantity sold, and total orders, providing insights into the most popular pizza items.
+  - Best Selling: The dashboard highlights best-selling pizzas based on revenue, quantity sold, and total orders, providing insights into the most popular pizza items.
 
   - Automated Real-time Insights: The dashboard is automated by creating a recurring job task in SSMS and importing the real-time data source from the SQL Server Database to Power BI.
 
 ## Dashboard
-Sales Optimization Dashboard - 
+Sales Optimization Dashboard
 
 ![HomePg](https://github.com/user-attachments/assets/5da0b4f1-f037-4f34-a842-726edae8fd15)
 
